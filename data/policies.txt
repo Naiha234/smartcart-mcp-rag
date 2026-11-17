@@ -1,0 +1,58 @@
+
+SMARTCART E-COMMERCE STORE
+DEMO CUSTOMER POLICIES
+
+1. RETURN POLICY
+
+Customers can request a return within 7 days
+after receiving a delivered product.
+
+Products must be unused and returned in their
+original packaging.
+
+Products damaged by customers are not eligible
+for a return under this demo policy.
+
+2. REFUND POLICY
+
+Refund requests are accepted for eligible
+delivered orders.
+
+The customer must provide a valid order ID.
+
+The order must be verified before a refund
+can be processed.
+
+A refund requires customer confirmation.
+
+Refund amounts are based on the original
+order amount recorded in the database.
+
+3. SHIPPING POLICY
+
+Orders are processed after successful placement.
+
+Processing orders have not yet been dispatched.
+
+Shipped orders are on their way to the customer.
+
+Delivered orders have been marked as received.
+
+4. CANCELLATION POLICY
+
+Customers may request cancellation before
+an order is dispatched.
+
+Orders that have already been shipped or
+delivered cannot be cancelled under this
+demo policy.
+
+5. PRODUCT AVAILABILITY
+
+Product availability depends on the stock
+quantity recorded in the store database.
+
+When stock is zero, the product is out of stock.
+
+When stock is greater than zero, the product
+is available for purchase.
